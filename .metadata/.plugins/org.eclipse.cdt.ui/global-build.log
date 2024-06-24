@@ -1,0 +1,7 @@
+08:54:01 **** Incremental Build of configuration Debug for project BINKY ****
+make -j12 all 
+arm-none-eabi-size  BINKY.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4608	     12	   1572	   6192	   1830	BINKY.elf
+Finished building: default.size.stdout
+ 
